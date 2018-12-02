@@ -13,4 +13,4 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 girl: 
   name: zhangsan
-  age: 61
+  age: 66
