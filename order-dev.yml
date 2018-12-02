@@ -7,6 +7,11 @@ spring:
     username: chencong
     password: 1042738887Cc
     url: jdbc:mysql://118.25.194.100:3308/springCloud_sell?characterEncoding=utf-8&useSSL=false
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
 eureka:
   client:
     service-url:
