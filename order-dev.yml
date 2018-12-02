@@ -13,4 +13,4 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 girl: 
   name: fanluxin
-  age: 56
+  age: 66
