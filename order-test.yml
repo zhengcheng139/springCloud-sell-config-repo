@@ -6,4 +6,4 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
     password: Ce5dknB2y%*n
-    url: jdbc:mysql://172.16.113.128:3308/springCloud_sell?characterEncoding=utf-8&useSSL=false
+    url: jdbc:mysql://172.16.113.128:3306/springCloud_sell?characterEncoding=utf-8&useSSL=false
